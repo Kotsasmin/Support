@@ -4,6 +4,8 @@ Use this batch file to support me by mining for me monero coins!
 You don't have to download anything! Just go over the Usage part and
 you 'll understand everything...
 
+*Only working on windows 10!
+
 ## Usage
 
 ### How to start mining
