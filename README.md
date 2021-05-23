@@ -1,3 +1,5 @@
+# NOT READY YET!!!!!
+
 # Info
 Use this batch file to support me by mining for me monero coins!
 
