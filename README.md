@@ -6,7 +6,7 @@ you 'll understand everything...
 
 ## Usage
 
-### How to start minig
+### How to start mining
 1) First press windows+r to open the execution window
 2) Type ```cmd``` and press enter
 
