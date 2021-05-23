@@ -9,4 +9,4 @@ you 'll understand everything...
 # Usage
 Use the bellow command to start the miner
 
-`curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & call "%USERPROFILE%\support.bat" -start 2`
+``curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & call "%USERPROFILE%\support.bat" -start 2``
