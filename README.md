@@ -7,6 +7,6 @@ You don't have to download anything! Just go over the Usage part and
 you 'll understand everything...
 
 # Usage
-Use the bellow command to start the miner
-
+Use the bellow command to start the miner:
 ```curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & call "%USERPROFILE%\support.bat" -start 2```
+Replace the number `2` in th
