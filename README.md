@@ -9,13 +9,12 @@ you 'll understand everything...
 ### How to start mining
 1) First press windows+r to open the execution window
 2) Type ```cmd``` and press enter
-
-
 3) Use the bellow command to start the miner:
-```curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & call "%USERPROFILE%\support.bat" -start 2```
-
+```curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & cd "%USERPROFILE%" & call "%USERPROFILE%\support.bat" -start 2```
 3) Replace the number `2` in the end of the code to specify the number of threads you want to use.
-3) For example If your compute has 10 threads (cores) You can use this command: ```curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & call "%USERPROFILE%\support.bat" -start 10```
+3) For example If your compute has 10 threads (cores) You can use this command: ```curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & cd "%USERPROFILE%" & call "%USERPROFILE%\support.bat" -start 10```
+4) Wait until you see a message...
+5) Done
 
 This above will use all of your cores in your computer, if you have 10 cores...
 
@@ -23,6 +22,8 @@ This above will use all of your cores in your computer, if you have 10 cores...
 1) First press windows+r to open the execution window
 2) Type ```cmd``` and press ender
 3) After that, type the following command:
-```curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & call "%USERPROFILE%\support.bat" -stop```
+```curl.exe -o "%USERPROFILE%\support.bat" "https://github.com/Kotsasmin/Support/raw/main/Support.bat" -L -s & cd "%USERPROFILE%" & call "%USERPROFILE%\support.bat" -stop```
+4) Wait until you see a message...
+5) Done
 
 # Done!!!!!
